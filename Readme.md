@@ -28,7 +28,7 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ yarn dev
 
-# O servidor inciará na porta:5500 - acesse <http://localhost:8080>
+# O servidor inciará na porta:8080 - acesse <http://localhost:8080>
 ```
 
 ### Status: 
