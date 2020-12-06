@@ -1,4 +1,4 @@
-# Repositorie Github List
+# Repositories Github List
 
 ## Projeto feito em aula. Listagem de repositórios do Github com ES6+.
 
